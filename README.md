@@ -1,8 +1,10 @@
 <h1>Hi, I'm John! <br/><a href="https://github.com/jsonlaz">Mathematician</a>, <a href="https://www.linkedin.com/in/john-success-lazarus-040b89195">Data Analyst</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-
-<!--
+- <b>DSMC method (AlgoExpert)</b>
+  - [DSMC using Python](https://github.com/jsonlaz/DSMC-Method)
+  
+  <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
