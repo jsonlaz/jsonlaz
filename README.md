@@ -1,9 +1,19 @@
 <h1>Hi, I'm John! <br/><a href="https://github.com/jsonlaz">Mathematician</a>, <a href="https://www.linkedin.com/in/john-success-lazarus-040b89195">Data Analyst</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-- <b>DSMC method (AlgoExpert)</b>
+
+- <b>DSMC method </b>
   - [DSMC using Python](https://github.com/jsonlaz/DSMC-Method)
-  
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/json_laz/
+[linkedin]: https://www.linkedin.com/in/john-success-lazarus-040b89195
+
+
   <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -29,13 +39,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/json_laz/
-[linkedin]: https://www.linkedin.com/in/john-success-lazarus-040b89195
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
