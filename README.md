@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/jsonlaz">Mathematician</a>, <a href="https://www.linkedin.com/in/john-success-lazarus-040b89195">Data Analyst</a></h1>
+<h1>Hi, I'm John! <br/><a href="https://github.com/jsonlaz">Mathematician</a>| <a href="https://www.linkedin.com/in/john-success-lazarus-040b89195">Data Analyst</a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
