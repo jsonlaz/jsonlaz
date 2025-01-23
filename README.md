@@ -14,8 +14,9 @@ I'm a passionate **Mathematician** and **Data Analyst** with dual master's degre
 - **Domains**: Statistical Analysis, Optimization, Data Visualization.  
 - **Soft Skills**: Problem-solving, critical thinking, communication. 
 
-### 🚀 Let's Collaborate:
-I'm always open to collaborating on exciting data-driven projects, optimization algorithms, or analytics-based challenges.
+### 🔎 What I’m Looking For:
+- Opportunities to analyze and interpret data to drive business decisions in industries like finance, sports, healthcare, or e-commerce.
+- Collaborations on open-source projects involving data analytics, visualization, or predictive modeling.
 
 ---
 
