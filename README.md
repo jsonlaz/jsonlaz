@@ -8,7 +8,7 @@ I'm a passionate **Mathematician** and **Data Analyst** with dual master's degre
 - Using Python, SQL, Tableau, and Power BI to solve real-world problems.
 
 ### 💼 Skills:
-- **Programming**: Python, SQL, R, C++.
+- **Programming**: Python, SQL, R.
 - **Web Scraping**: Automating data extraction from websites with BeautifulSoup and Scrapy. 
 - **Data Tools**: Tableau, Power BI, Excel, Pandas, NumPy.  
 - **Domains**: Statistical Analysis, Optimization, Data Visualization.  
