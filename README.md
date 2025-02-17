@@ -6,7 +6,7 @@ I'm a passionate **Mathematician** and **Data Analyst** with dual master's degre
 - Numerical optimization and mathematical modeling.
 - Web scraping (BeautifulSoup, Scrapy).  
 
-I leverage Python, SQL, Tableau, and Power BI to deliver data-driven solutions across various domains.
+I leverage data analytic tools to deliver data-driven solutions across various domains.
 
 
 ### 💼 Skills:
